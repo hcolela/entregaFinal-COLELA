@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "category": "ProfessionalPro"
+  },
+  {
+    "id":2,
+    "category": "Professional"
+  },
+  {
+    "id":3,
+    "category": "Gamer"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://http2.mlstatic.com/procesador-amd-ryzen-7-1700-37-ghz-8-cores-socket-am4-D_NQ_NP_680372-MCO28828552597_112018-F.jpg",
+    "name": "procesador",
+    "model": "Rizen 7 5700 g",
+    "category": "ProfessionalPro",
+    "price": 146899,
+    "itHasDues": true,
+    "isAnnOffer": true,
+    "available": 8
+  },
+  {
+    "id": 2,
+    "image": "https://d30u9wim1barf6.cloudfront.net/Custom/Content/Products/99/30/993069_teclado-gamer-t-dagger-adriatic-rgb-mecanico-abnt2-switch-blue-t-tgk316-bl_l4_637613413226023361.jpg",
+    "name": "teclado gamer",
+    "model": "T-Dagger Adriatic",
+    "category": "Gamer",
+    "price": 16999,
+    "itHasDues": false,
+    "isAnnOffer": true,
+    "available": 5
+  },
+  {
+    "id": 3,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_643661-MLM46198384212_052021-F.jpg",
+    "name": "mother",
+    "model": "Asus Prime A320",
+    "category": "ProfessionalPro",
+    "price": 57438,
+    "itHasDues": true,
+    "isAnnOffer": false,
+    "available": 7
+  },
+  {
+    "id": 4,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.gFXJjoUzxVWM3IUadnRUdAHaHa&pid=Api&P=0&h=180",
+    "name": "monitor gamer",
+    "model": "Samsung G3",
+    "category": "Gamer",
+    "price": 143981,
+    "itHasDues": false,
+    "isAnnOffer": true,
+    "available": 8
+  },
+  {
+    "id": 5,
+    "image": "https://www.brandimia.com/productos/CTL-4100-4.jpg",
+    "name": "tableta grafica",
+    "model": "Wakom CTL-4100",
+    "category": "Professional",
+    "price": 18420,
+    "itHasDues": false,
+    "isAnnOffer": true,
+    "available": 3
+  },
+  {
+    "id": 6,
+    "image": "https://www.traxmusicstore.com/wp-content/uploads/2016/07/SM58.jpg",
+    "name": "microfono",
+    "model": "Shure SM 58",
+    "category": "Professional",
+    "price": 3990,
+    "itHasDues": false,
+    "isAnnOffer": false,
+    "available": 4
+  },
+  {
+    "id": 7,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.9V8N1MB5opvepVc1yVzmQgHaFM&pid=Api&P=0&h=180",
+    "name": "notebook",
+    "model": "Dell Inspiron 15",
+    "category": "ProfessionalPro",
+    "price": 599000,
+    "itHasDues": true,
+    "isAnnOffer": true,
+    "available": 5
+  },
+  {
+    "id": 8,
+    "image": "https://http2.mlstatic.com/mouse-inalambrico-logitech-D_NQ_NP_23009-MLM7833186763_022015-F.jpg",
+    "name": "mouse inalambrico",
+    "model": "Logitech M 310",
+    "category": "Professional",
+    "price": 1626,
+    "itHasDues": true,
+    "isAnnOffer": false,
+    "available": 7
+  },
+  {
+    "id": 9,
+    "image": "https://resources.claroshop.com/medios-plazavip/mkt/5b2d41582360b_ax4u240038g16-srs-1jpg.jpg",
+    "name": "memoria ram",
+    "model": "Adata DDR4 XPG",
+    "category": "Professional",
+    "price": 19900,
+    "itHasDues": false,
+    "isAnnOffer": true,
+    "available": 4
+  },
+  {
+    "id": 10,
+    "image": "https://www.tilt.pt/wp-content/uploads/2021/05/Placa-grafica-Asus-VGA-GT-10-1GB-DDR5-1.jpg",
+    "name": "placa grafica",
+    "model": "GeForce GT 710",
+    "category": "ProfessionalPro",
+    "price": 59473,
+    "itHasDues": false,
+    "isAnnOffer": true,
+    "available": 3
+  },
+  {  
+    "id": 11,
+    "image": "https://static.nb.com.ar/i/nb_GABINETE-GAMER-RAIDMAX-X616TBF_ver_f5e7035d4f80c26c8c87d0a011dfc5a7.png",
+    "name": "gabinete gamer",
+    "model": "Raidmax X6",
+    "category": "Gamer",
+    "price": 84999,
+    "itHasDues": true,
+    "isAnnOffer": true,
+    "available": 2
+  },
+  {
+    "id": 12,
+    "image": "https://www.venta.com.mx/sh-img/silla-gamer-kultec-c-series-verde-tela-kltc-1318-D_NQ_NP_905661-MLM31226805344_062019-F_silla%2Bgamer%2Bkultec.jpg",
+    "name": "silla gamer",
+    "model": "Raidmax X6",
+    "category": "Gamer",
+    "price": 179999,
+    "itHasDues": true,
+    "isAnnOffer": true,
+    "available": 3
+  }
+]
